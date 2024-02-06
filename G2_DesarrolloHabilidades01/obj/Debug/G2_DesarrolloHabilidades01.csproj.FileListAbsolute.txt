@@ -1,0 +1,11 @@
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\obj\Debug\G2_DesarrolloHabilidades01.csproj.AssemblyReference.cache
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\obj\Debug\G2_DesarrolloHabilidades01.Form1.resources
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\obj\Debug\G2_DesarrolloHabilidades01.Properties.Resources.resources
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\obj\Debug\G2_DesarrolloHabilidades01.csproj.GenerateResource.cache
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\obj\Debug\G2_DesarrolloHabilidades01.csproj.CoreCompileInputs.cache
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\bin\Debug\G2_DesarrolloHabilidades01.exe.config
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\bin\Debug\G2_DesarrolloHabilidades01.exe
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\bin\Debug\G2_DesarrolloHabilidades01.pdb
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\obj\Debug\G2_DesarrolloHabilidades01.exe
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\obj\Debug\G2_DesarrolloHabilidades01.pdb
+C:\ProyectosPersonales\LPP0\Guia02\G2_DesarrolloHabilidades01\obj\Debug\G2_DesarrolloHabilidades01.InputForm.resources
